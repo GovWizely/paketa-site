@@ -1,0 +1,18 @@
+- links:
+  - name: Pricing
+    link: /pricing/
+  - name: Blog
+    link: /blog/
+  - name: About
+    link: /about/
+  - name: Contact
+    link: /contact/
+- links:
+  - name: LinkedIn
+    link: https://www.linkedin.com
+    new_window: true
+    social_icon: LinkedIn
+  - name: Bluesky
+    link: https://www.bluesky.com
+    new_window: true
+    social_icon: Bluesky
