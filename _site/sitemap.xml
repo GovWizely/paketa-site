@@ -36,7 +36,13 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/index_clean/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/pricing/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/untitled%20text%2045/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/category/data/</loc>
